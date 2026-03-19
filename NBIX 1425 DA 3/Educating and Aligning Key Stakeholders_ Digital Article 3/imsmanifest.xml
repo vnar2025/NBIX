@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6XjSYjGtLKU" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Educating and Aligning Key Stakeholders: Digital Article 3</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Educating_and_Aligning_Key_Stakeholders:_Digital_Article_3_ORG">
+    <organization identifier="Educating_and_Aligning_Key_Stakeholders:_Digital_Article_3_ORG">
+      <title>Educating and Aligning Key Stakeholders: Digital Article 3</title>
+      <item identifier="NBIX1422_Module_2:_Regulatory_Considerations_SCO" isvisible="true" identifierref="__6XjSYjGtLKU_RES">
+        <title>Educating and Aligning Key Stakeholders: Digital Article 3</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6XjSYjGtLKU_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6mbJGoWXCog.png" />
+      <file href="mobile/6mbJGoWXCog_B20.png" />
+      <file href="mobile/5mQG6uWsXb0.png" />
+      <file href="mobile/5mQG6uWsXb0_B20.png" />
+      <file href="mobile/6MwKFdGbAkR.png" />
+      <file href="mobile/5lrTuPTDaGq_80.jpg" />
+      <file href="mobile/6luO86pYRfq.png" />
+      <file href="mobile/5pX4dQN52Dc.png" />
+      <file href="mobile/6rDmmyqdeSX_80.png" />
+      <file href="mobile/6Z1cfyFpBFZ.png" />
+      <file href="mobile/6BUsec7JH7z.png" />
+      <file href="mobile/6lfbKgxPbFF.png" />
+      <file href="mobile/69Nnc52Ztcd.png" />
+      <file href="mobile/5WlZDbD3i0O.png" />
+      <file href="mobile/5a1OebTHSmX.png" />
+      <file href="mobile/5k30ap7piFG.png" />
+      <file href="mobile/6R6RS76AbqJ.png" />
+      <file href="story_content/6Bf8lRzhBQD.js" />
+      <file href="mobile/5oY8E20LPb7.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6qQJIrIGn1s.png" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/NBIX 1425 DA 3_V3_print.pdf" />
+      <file href="mobile/txt__default_5tBtIEelJIJ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dUQyF01HkT.js" />
+      <file href="html5/data/js/5hZXyVfLrAn.js" />
+      <file href="html5/data/js/5mI8xXTdW6z.js" />
+      <file href="html5/data/js/5WTqe9viMSN.js" />
+      <file href="html5/data/js/66i9xW5TnRU.js" />
+      <file href="html5/data/js/67plPaFNMgn.js" />
+      <file href="html5/data/js/6Cd2TO9bGjO.js" />
+      <file href="html5/data/js/6DBosoWvUJL.js" />
+      <file href="html5/data/js/6EWec68yKB7.js" />
+      <file href="html5/data/js/6mOIrHZZAdP.js" />
+      <file href="html5/data/js/6oCfSfsf8rB.js" />
+      <file href="html5/data/js/6OqFtEi8ZSa.js" />
+      <file href="html5/data/js/6p5BR7az0XU.js" />
+      <file href="html5/data/js/6pstMCziiFl.js" />
+      <file href="html5/data/js/6qikFyh47yl.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
