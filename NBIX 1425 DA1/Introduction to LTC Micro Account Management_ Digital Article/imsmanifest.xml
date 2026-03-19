@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6hxaI3gn0x8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Introduction to LTC Micro Account Management: Digital Article 1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Introduction_to_LTC_Micro_Account_Management:_Digital_Article_1_ORG">
+    <organization identifier="Introduction_to_LTC_Micro_Account_Management:_Digital_Article_1_ORG">
+      <title>Introduction to LTC Micro Account Management: Digital Article 1</title>
+      <item identifier="NBIX1422_Module_2:_Regulatory_Considerations_SCO" isvisible="true" identifierref="__6hxaI3gn0x8_RES">
+        <title>Introduction to LTC Micro Account Management: Digital Article 1</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6hxaI3gn0x8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6mbJGoWXCog.png" />
+      <file href="mobile/6mbJGoWXCog_B20.png" />
+      <file href="mobile/5mQG6uWsXb0.png" />
+      <file href="mobile/5mQG6uWsXb0_B20.png" />
+      <file href="mobile/5hvV2lGiB3v.png" />
+      <file href="mobile/5lrTuPTDaGq_80.jpg" />
+      <file href="mobile/6luO86pYRfq.png" />
+      <file href="mobile/5pX4dQN52Dc.png" />
+      <file href="mobile/6rDmmyqdeSX_80.png" />
+      <file href="mobile/6Z1cfyFpBFZ.png" />
+      <file href="mobile/6BUsec7JH7z.png" />
+      <file href="mobile/6f9XCTSXOuw.png" />
+      <file href="mobile/6RtpaTtBzC1.png" />
+      <file href="mobile/68g6GBfswUn.png" />
+      <file href="mobile/69Nnc52Ztcd.png" />
+      <file href="mobile/5aF1ORH723w.png" />
+      <file href="mobile/5aYQYwjjnLb_P_0_0_556_431.png" />
+      <file href="mobile/66bXdtKY6tv_P_0_0_556_431.png" />
+      <file href="mobile/6h4zCSbPh4G_P_0_0_556_431.png" />
+      <file href="mobile/6TKxkexi3Tc_P_0_0_556_431.png" />
+      <file href="mobile/5a1OebTHSmX.png" />
+      <file href="mobile/68xtveVbSlu_P_0_0_556_431.png" />
+      <file href="mobile/5vowLcSVIdZ_P_0_0_556_431.png" />
+      <file href="mobile/6Ja3MvaC8CR.png" />
+      <file href="mobile/6G569MLxm1Y.png" />
+      <file href="mobile/6TxghS0dynT.png" />
+      <file href="mobile/6Py6fA7gcje.png" />
+      <file href="mobile/6gGOMwMeBbv.png" />
+      <file href="mobile/69D06Ylb3le.png" />
+      <file href="mobile/5nPbOlhiRym.png" />
+      <file href="mobile/6Oz6DXflKmt.png" />
+      <file href="mobile/5Z3JbdohZcF.png" />
+      <file href="mobile/6DHNRuifadg.png" />
+      <file href="mobile/6hiilS68OYP.png" />
+      <file href="mobile/5ykmwX3TQPm.png" />
+      <file href="mobile/5usnQylMPAq.png" />
+      <file href="mobile/5erEkeAfFbs.png" />
+      <file href="story_content/6Bf8lRzhBQD.js" />
+      <file href="mobile/5oY8E20LPb7.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6dl6JlkxlW1.png" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Introduction to LTC Micro Account Management Digital Article 1.pdf" />
+      <file href="mobile/txt__default_5izinHXFXF2.png" />
+      <file href="mobile/txt__default_5bOOtAyj7js.png" />
+      <file href="mobile/txt__default_6qcVPpHTgK5.png" />
+      <file href="mobile/txt__default_5XOv6JILyAa.png" />
+      <file href="mobile/txt__default_5WG2nWpuW6z.png" />
+      <file href="mobile/txt__default_6X0rGeYAfKC.png" />
+      <file href="mobile/txt__default_6KokngDda5O.png" />
+      <file href="mobile/txt__default_5WOHWB4mwZs.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dUQyF01HkT.js" />
+      <file href="html5/data/js/5eygDNV2KD7.js" />
+      <file href="html5/data/js/5hZXyVfLrAn.js" />
+      <file href="html5/data/js/5mI8xXTdW6z.js" />
+      <file href="html5/data/js/5sr4dKhamGh.js" />
+      <file href="html5/data/js/5WTqe9viMSN.js" />
+      <file href="html5/data/js/5ZjDLlJOC75.js" />
+      <file href="html5/data/js/5zQ725T46sN.js" />
+      <file href="html5/data/js/66i9xW5TnRU.js" />
+      <file href="html5/data/js/6Cd2TO9bGjO.js" />
+      <file href="html5/data/js/6ClWgxmmm4M.js" />
+      <file href="html5/data/js/6g8gifmYeOM.js" />
+      <file href="html5/data/js/6kstvKGAuOV.js" />
+      <file href="html5/data/js/6mOIrHZZAdP.js" />
+      <file href="html5/data/js/6OlBaeAjhcT.js" />
+      <file href="html5/data/js/6OMxQ78ODhA.js" />
+      <file href="html5/data/js/6OqFtEi8ZSa.js" />
+      <file href="html5/data/js/6ou1Eo7mvQl.js" />
+      <file href="html5/data/js/6qikFyh47yl.js" />
+      <file href="html5/data/js/6qWyzkRvf28.js" />
+      <file href="html5/data/js/6UEd3Iq8gG1.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
